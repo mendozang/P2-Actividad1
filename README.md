@@ -4,7 +4,7 @@
 
 Profesor: Diego Iván May Tuz
 
-Práctica 3: Continuando API
+Práctica 1: Creación de API con CRUD básico
 
 Alumno: Angélica Leticia Mendoza Segura
 
@@ -12,6 +12,4 @@ Cuatrimestre: 4°
 
 Grupo: D
 
-1° Parcial
-
-Implementación de DTOs y automapping
+2° Parcial
